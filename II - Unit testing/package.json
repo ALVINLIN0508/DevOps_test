@@ -1,0 +1,13 @@
+{
+  "name": "mylib-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "mocha": "^11.8.0"
+  }
+}
